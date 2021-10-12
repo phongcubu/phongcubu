@@ -60,4 +60,4 @@ A **BACK-END WEB DEVELOPMENT**  🚀.
 <p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"></p>
 <hr>
-<p align="center">Copyright © 2021<Phong></p>
+<p align="center">Copyright © 2021 | Phong</p>
